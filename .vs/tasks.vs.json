@@ -5,6 +5,11 @@
       "taskLabel": "tarefa-BackendTest",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-AppBook",
+      "appliesTo": "AppBook/AppBook.sln",
+      "type": "launch"
     }
   ]
 }
